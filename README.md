@@ -1,7 +1,7 @@
 # kevin.github.io
 My personal portfolio – Embedded Storage Validation | Automation | Python | PyTest
 
-#  Hi, I'm Kevin Jabastin
+#  Hi, I'm Kevin G
 
 🔹 **Embedded System Validation & Automation Engineer**  
 🔹 **SanDisk (Western Digital) – Bangalore, India**  
@@ -67,9 +67,9 @@ Currently, I’m building expertise in:
 ---
 
 ## Connect With Me
-- **📧 Email:** [yourname@email.com]
-- **💼 LinkedIn:** [linkedin.com/in/kevinjabastin](https://linkedin.com/in/kevinjabastin)
-- **🌐 Portfolio:** [https://kevinjabastin.github.io](https://kevinjabastin.github.io)
+- **📧 Email:** [kevin.jabastin.22@gmail.com]
+- **💼 LinkedIn:** [linkedin.com/in/kevin-g-180a28190]
+- **🌐 Portfolio:** [
 
 ---
 
