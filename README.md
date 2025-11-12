@@ -69,7 +69,7 @@ Currently, I’m building expertise in:
 ## Connect With Me
 - **📧 Email:** [kevin.jabastin.22@gmail.com]
 - **💼 LinkedIn:** [linkedin.com/in/kevin-g-180a28190]
-- **🌐 Portfolio:** [
+- **🌐 Portfolio:** [kevinjabastin.github.io/kevin.github.io/]
 
 ---
 
