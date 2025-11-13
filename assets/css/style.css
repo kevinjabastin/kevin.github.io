@@ -119,3 +119,38 @@ footer {
     transform: translateY(0);
   }
 }
+.page-section {
+  max-width: 800px;
+  margin: 80px auto;
+  text-align: center;
+  padding: 30px;
+  background: #161b22;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(88, 166, 255, 0.1);
+}
+
+.page-section h2 {
+  color: #58a6ff;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.page-section p {
+  color: #c9d1d9;
+  line-height: 1.6;
+}
+
+.project-card {
+  background: #0d1117;
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  text-align: left;
+  max-width: 700px;
+}
+
+.project-card h3 {
+  color: #58a6ff;
+}
+
