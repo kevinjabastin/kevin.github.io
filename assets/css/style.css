@@ -33,4 +33,17 @@ header {
 .navbar a:hover {
   color: #ffffff;
 }
+/* ===== FOOTER STYLING ===== */
+footer {
+  text-align: center;
+  padding: 15px 0;
+  background-color: #1f1f1f;
+  color: #888;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: 14px;
+  border-top: 1px solid #333;
+}
+
 
